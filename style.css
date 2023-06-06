@@ -32,3 +32,8 @@
 .navbar-collapse.in {
     display: block !important;
 }
+
+.carousel-inner img{
+
+    width: 100%;
+}
